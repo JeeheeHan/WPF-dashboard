@@ -1,1 +1,2 @@
-# Code Clinic excercise to make a real time dashboard	
+# Code Clinic excercise to make a real time dashboard
+#Using WPF
